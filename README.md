@@ -9,7 +9,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Football Position Predict End to End ML Project</h3>
+  <h3 align="center"> End to End MLOps Project: Football Position Prediction Model FastAPI Model Deployment</h3> 
 
   [![LinkedIn][linkedin-shield]][linkedin-url]
 
